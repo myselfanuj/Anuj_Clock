@@ -68,8 +68,12 @@ class HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateMi
               Material(
                 borderRadius: BorderRadius.all(Radius.circular(50.0)),
                 elevation: 10.0,
-                color: Colors.brown.shade900,
+               // color: Colors.brown.shade900,
                 child: Container(
+                    decoration: BoxDecoration(
+                    image: DecorationImage(image: AssetImage("images/back.jpg"),
+                    fit: BoxFit.cover),
+                  ),
                   width: 320,
                   height: 320,
                   child: Center(
