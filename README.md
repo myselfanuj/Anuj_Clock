@@ -6,7 +6,7 @@
 
 A Flutter Clock Application.
 
-<img src = "https://raw.githubusercontent.com/myselfanuj/Anuj_Clock/master/clock.jpg" width ="300">
+<img src = "https://raw.githubusercontent.com/VikasPandey121/Reported-issues/master/supportingFiles/Attachments/Dart.gif" width ="300">
 
 ## Getting Started
 
